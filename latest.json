@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "v10",
+  "build": 10,
+  "versionCode": 42,
+  "webBundleUrl": "https://github.com/egorz-code/bashnya-boom-updates/releases/download/v10/www-v10.zip",
+  "webBundleSha256": "e40b5c3bd4a543aa567affb834257b1a348692e285227f25825a34cb3a63d2cc",
+  "apkUrl": "https://github.com/egorz-code/bashnya-boom-updates/releases/download/v10/bashnya-boom-v10.apk",
+  "apkSha256": "10586d202aca8e0d555ee633c2f9c2cb5b06cb7a08a3a9de2681e3e8dd76ce8c",
+  "minNativeVersion": 1,
+  "notes": "Обновление через плашку в меню: больше не нужно ставить APK руками."
+}

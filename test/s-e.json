@@ -1,0 +1,12 @@
+{
+ "schema": 1,
+ "version": "v12",
+ "build": 12,
+ "versionCode": 11,
+ "webBundleUrl": "https://github.com/egorz-code/bashnya-boom-updates/releases/download/test-bad/www-test-bad.zip",
+ "webBundleSha256": "bdc87901d403a458ef71902513013bb4be21207df04529d0dd1f0301f0bdbdf0",
+ "apkUrl": "https://github.com/egorz-code/bashnya-boom-updates/releases/download/test-apk/bashnya-boom-test-apk.apk",
+ "apkSha256": "6c5a0838fb5dd3fe189142336c28aed423088250ae9c55af8d9e18b3c04c49aa",
+ "minNativeVersion": 1,
+ "notes": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b e2e"
+}

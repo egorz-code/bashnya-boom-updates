@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "v11",
-  "build": 11,
-  "versionCode": 45,
-  "webBundleUrl": "https://github.com/egorz-code/bashnya-boom-updates/releases/download/v11/www-v11.zip",
-  "webBundleSha256": "72014fe19c9578c749515c764f198dfddd4321bee1d14669a5c5dd9fc4d19301",
-  "apkUrl": "https://github.com/egorz-code/bashnya-boom-updates/releases/download/v11/bashnya-boom-v11.apk",
-  "apkSha256": "f494a49a395ed1fbaa0b459f9aaf94a677b1d953c88b8fe7716dec086fd8cdbf",
+  "version": "v12",
+  "build": 12,
+  "versionCode": 61,
+  "webBundleUrl": "https://github.com/egorz-code/bashnya-boom-updates/releases/download/v12/www-v12.zip",
+  "webBundleSha256": "949970119564c1f8d0cafcb98326d114712a8d11df5523280c5b4aa43a5d9a03",
+  "apkUrl": "https://github.com/egorz-code/bashnya-boom-updates/releases/download/v12/bashnya-boom-v12.apk",
+  "apkSha256": "d9cb3ba7d53b3452fa92689869bae5f7dc0bf6dcd2d13ae44659b8b6e5402249",
   "minNativeVersion": 1,
-  "notes": "Обновление через плашку в меню: больше не нужно ставить APK руками."
+  "notes": "Новый Злой бот: считает эликсир и бережёт башни. Прежний Злой теперь Средний, Лёгкий как был."
 }
